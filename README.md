@@ -1,4 +1,4 @@
- # 初めてのGit
+ # 初めてのGitじゃんあいかjんd
 
  Gitはいいぞ
  aaaaaaaaaaaaaaaaaaaa
